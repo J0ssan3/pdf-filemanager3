@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>PDF File Manager JS</title>
+</head>
+<body>
+  <h1>Extrair Texto de um PDF</h1>
+  <input type="file" id="pdfInput" accept="application/pdf" />
+  <button onclick="extrairTexto()">Extrair</button>
+  <pre id="saida"></pre>
+
+  <script src="lib/pdf-lib.min.js"></script>
+  <script src="lib/FileSaver.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
