@@ -1,3 +1,6 @@
+## 🔗 Release Oficial
+
+- [Versão 1.0.0 - Primeira versão estável](https://github.com/J0ssan3/pdf-filemanager3/releases/tag/v1.0.0)
 
 # Projeto JavaScript Manual: PDF File Manager
 
